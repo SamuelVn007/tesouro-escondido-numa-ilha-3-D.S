@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A besta ainda o persegue, ela o ataca mas seu medo é tão grande que a adrenalina não o faz sentir dor. Você se esquiva de um golpe mortal e segue o caminho esbarrando em tudo no trajeto, você tem coisas mais importantes para se preocupar do que para onde você está correndo.Porém esse descuido pode ser sua ruína. Você tropeça e cai de um barranco próximo a uma espada jogada do lado de uma árvore e se vê diante de mais uma escolha   ",
+        enunciado: "A besta ainda o persegue, ela o ataca mas seu medo por ela é tão grande que a adrenalina não o faz sentir dor. Desesperado, eu começo a correr sem parar porém esse descuido acaba o colocando em perigo aonde você cai em uma ruina e por sorte você encontra uma espada jogada no chão, e você tem duas escolhas. ",
         alternativas: [
             {
                 texto:"Pegar a espada e tentar lutar pela sua vida ",
@@ -32,14 +32,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você consegue com muita dificuldade passar pelo caminho, despistando a terrível fera mutante, enquanto você se recuperava da fuga/luta, se depara com uma entrada escondida para uma caverna profunda. Se aproximando dela você escorrega e acaba caindo nela. Entretanto, curiosamente ela é a caverna do tesouro, mas também pode ser o seu túmulo, você está muito ferido e precisa urgentemente de auxílio médico.",
+        enunciado: "Você consegue com muita dificuldade passar pelo caminho, despistando a fera, deois de uma dificultosa luta e você se depara com uma entrada escondida para uma caverna muito profundo. Se aproximando dela você escorrega e acaba caindo nela. Entretanto, ela é a caverna do tesouro, mas também pode ser o seu fim, por ser uma caverna muito profundo, você está muito ferido e precisa urgentemente de auxílio médico.",
         alternativas: [
             {
                 texto:"O tesouro e muito valioso para ser ignorado, seu valor pode salvar minha vida, mas infelizmente só terei condições de levar algumas moedas.",
                 afirmacao: "Após o encontro com a besta, foi descuidado e cai em uma caverna, lá achei o tesouro que buscava. A fera tinha me ferido muito então só consegui levar poucas moedas. "
             },
             {
-                texto: "Sou muito jovem para morrer tentar levar a fortuna será um desafio, infelizmente terei que deixá-lo",
+                texto: "Sua vontade de ser ter esse tesouro é tão grande                                          para morrer tentar levar a fortuna será um desafio, infelizmente terei que deixá-lo",
                 afirmacao: "Após o encontro com a besta, foi descuidado e cai em uma caverna, lá achei o tesouro que buscava. A fera tinha me ferido muito então optei por sair do local e retornar em outro momento."
             }
         ]
@@ -52,8 +52,8 @@ const perguntas = [
                 afirmacao: "Ao chegar em meu barco a ganância me consumiu e decidi voltar até a caverna pelo mar. "
             },
             {
-                texto: "Merda! Terei de retornar uma outra hora para buscar toda a fortuna, espero que ninguém a encontre até o meu retorno.",
-                afirmacao: "Ao chegar em meu barco a ganância tentou me consumir, mas meu sofrimento falou mais alto então decidi voltar a terra firme do continente."
+                texto: "Terei de retornar uma outra hora para buscar toda a fortuna, espero que ninguém a encontre até o meu retorno.",
+                afirmacao: "Ao chegar em meu barco, senti uma forte coragem seguida de medo de voltar para a ilha e obter aquele tesouro."
             }
         ]
     },
