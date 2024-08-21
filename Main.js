@@ -39,7 +39,7 @@ const perguntas = [
                 afirmacao: "Após o encontro com a besta, foi descuidado e cai em uma caverna, lá achei o tesouro que buscava. A fera tinha me ferido muito então só consegui levar poucas moedas. "
             },
             {
-                texto: "Sua vontade de ser ter esse tesouro é tão grande                                          para morrer tentar levar a fortuna será um desafio, infelizmente terei que deixá-lo",
+                texto: "Sua vontade de se ter esse tesouro é tão grande que você não liga para a sua própria morte, mas você não tem outra opção se não deixa-lo para trás",
                 afirmacao: "Após o encontro com a besta, foi descuidado e cai em uma caverna, lá achei o tesouro que buscava. A fera tinha me ferido muito então optei por sair do local e retornar em outro momento."
             }
         ]
